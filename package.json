@@ -3,7 +3,7 @@
   "displayName": "Open in OS Terminal",
   "description": "Open in OS Terminal",
   "icon": "icon.png",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "linhx",
   "author": "linhx",
   "repository": "https://github.com/linhx/vscode-open-in-os-terminal",
